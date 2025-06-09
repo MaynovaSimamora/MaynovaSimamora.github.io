@@ -74,7 +74,7 @@ double fractionalKnapsack(int capacity, vector<Item>& items) {
 
 int main() {
     int capacity = 15;
-    vector<Item> items = {{2, 10}, {3, 5}, {5, 15}, {7, 7}, {1, 6}, {4, 18}};
+    vector<Item> items = \{\{2, 10\}, \{3, 5\}, \{5, 15\}, \{7, 7\}, \{1, 6\}, \{4, 18\}\};
     cout << "Nilai Maksimum: " << fractionalKnapsack(capacity, items) << endl;
     return 0;
 }
