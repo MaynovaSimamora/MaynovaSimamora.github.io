@@ -1,6 +1,6 @@
 ---
 title: "Dijkstra's Algorithm"
-date: 2025-06-11 08:00:00 +0800
+date: 2025-06-09 08:00:00 +0800
 categories: [DAA, Dijkstra's Algorithm]
 tags: [Shortest Path, Greedy, Graph]
 ---

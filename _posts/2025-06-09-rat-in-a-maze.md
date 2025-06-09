@@ -1,6 +1,6 @@
 ---
 title: "Rat in a Maze"
-date: 2025-06-10 08:00:00 +0800
+date: 2025-06-09 08:00:00 +0800
 categories: [DAA, Rat in a Maze]
 tags: [Backtracking, Maze, C++]
 ---

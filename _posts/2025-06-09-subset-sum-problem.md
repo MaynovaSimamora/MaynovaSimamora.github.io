@@ -1,6 +1,6 @@
 ---
 title: "Subset Sum Problem"
-date: 2025-06-10 08:00:00 +0800
+date: 2025-06-09 08:00:00 +0800
 categories: [DAA, Subset Sum Problem]
 tags: [Subset Sum, Dynamic Programming, C++]
 ---
