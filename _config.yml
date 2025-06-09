@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: C:\Users\ASUS\OneDrive\Pictures\Camera Roll\WIN_20241105_13_09_36_Pro.jpg
+avatar: blob:https://web.whatsapp.com/fcd39055-2d74-44f9-a9c6-819d028b7b48
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
