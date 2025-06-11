@@ -98,8 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://instagram.fupg7-1.fna.fbcdn.net/v/t51.29350-15/505137197_616621681447693_8860079943967579306_n.heic?stp=dst-jpg_e35_p640x640_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IlNUT1JZLmltYWdlX3VybGdlbi4xMDgweDE5MjAuc2RyLmYyOTM1MC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fupg7-1.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2QGANQ3XBjoKrN4uyPya_tr0GqW5LGOdFPa6APCpfT2lNzPm8j57MM2-RCaIqfUnzBc&_nc_ohc=5UEYZkik0_wQ7kNvwEWT6I3&_nc_gid=CuR-obCRQ0spSOfsaV5ROg&edm=AEYEu-QBAAAA&ccb=7-5&ig_cache_key=MzY1MTI3MDY3Mzk4Njg5MDE5OA%3D%3D.3-ccb7-5&oh=00_AfMyfIbsr-jUEKZk2kWgx5zKlQmmDujwu4m5Fj88ZHUKjw&oe=684CD88F&_nc_sid=ead929
-
+avatar: https://x.com/gebyellas/photo
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
 social_preview_image: # string, local or CORS resources
