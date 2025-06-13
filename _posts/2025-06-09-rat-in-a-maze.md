@@ -112,8 +112,8 @@ int main() {
 ```
 
 ## 📚 Analisis Kompleksitas
-Waktu : O(4^(N*N)) dalam kasus terburuk (setiap sel memiliki 4 pilihan)
-Ruang : O(N*N) untuk rekursi stack dan visited matrix
+- Waktu : O(4^(N*N)) dalam kasus terburuk (setiap sel memiliki 4 pilihan)
+- Ruang : O(N*N) untuk rekursi stack dan visited matrix
 
 ## 🌟 Aplikasi Dunia Nyata
 1. Robot navigasi

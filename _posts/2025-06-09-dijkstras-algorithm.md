@@ -102,8 +102,8 @@ int main() {
 ```
 
 ## 📚 Analisis Kompleksitas
-Waktu : O(E log V), dengan struktur data priority queue
-Ruang : O(V + E)
+- Waktu : O(E log V), dengan struktur data priority queue
+- Ruang : O(V + E)
 
 ## 🌟 Aplikasi Dunia Nyata
 1. Sistem navigasi (Google Maps, Waze)

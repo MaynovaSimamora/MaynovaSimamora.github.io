@@ -60,8 +60,8 @@ struct Node {
 ```
 
 ## 📚 Analisis Kompleksitas
-Waktu : O(n log n)
-Ruang : O(n)
+- Waktu : O(n log n)
+- Ruang : O(n)
 
 ## 🌟 Aplikasi Dunia Nyata
 1. ZIP

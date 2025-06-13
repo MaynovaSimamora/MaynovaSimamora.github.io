@@ -49,8 +49,8 @@ void solveNQueens(vector<vector<int>>& board, int row, int N, vector<vector<vect
 ``` 
 
 ## 📚 Analisis Kompleksitas
-Waktu : O(N!) – eksponensial
-Ruang : O(N²)
+- Waktu : O(N!) – eksponensial
+- Ruang : O(N²)
 
 ## 🌟 Aplikasi Dunia Nyata
 - Penjadwalan tugas

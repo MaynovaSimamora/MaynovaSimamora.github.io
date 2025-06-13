@@ -92,8 +92,8 @@ int main() {
 ```
 
 ## 📚 Analisis Kompleksitas
-Kompleksitas Waktu : O(n log n)
-Kompleksitas Ruang : O(n)
+- Kompleksitas Waktu : O(n log n)
+- Kompleksitas Ruang : O(n)
 
 ## 🌟 Aplikasi Dunia Nyata
 - Penjadwalan ruang kelas/meeting/lab

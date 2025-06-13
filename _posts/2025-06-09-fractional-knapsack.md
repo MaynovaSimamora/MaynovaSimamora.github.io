@@ -81,8 +81,8 @@ int main() {
 ```
 
 ## 📚 Analisis Kompleksitas
-Waktu : O(n log n) – karena pengurutan
-Ruang : O(n)
+- Waktu : O(n log n) – karena pengurutan
+- Ruang : O(n)
 
 ## 🌟 Aplikasi Dunia Nyata
 - Pengalokasian sumber daya terbatas

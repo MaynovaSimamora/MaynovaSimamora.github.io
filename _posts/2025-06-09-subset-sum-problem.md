@@ -86,8 +86,8 @@ int main() {
 ```
 
 ## 📚 Analisis Kompleksitas
-Waktu : O(n × sum)
-Ruang : O(sum)
+- Waktu : O(n × sum)
+- Ruang : O(sum)
 
 ## 🌟 Aplikasi Dunia Nyata
 - Kriptografi

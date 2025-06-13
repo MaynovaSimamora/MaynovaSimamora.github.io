@@ -94,8 +94,8 @@ int main() {
 ```
 
 ## 📚 Analisis Kompleksitas
-Waktu : O(V + E)
-Ruang : O(V)
+- Waktu : O(V + E)
+- Ruang : O(V)
 
 ## 🌟 Aplikasi Dunia Nyata
 1. Penjadwalan tugas berbasis dependensi
